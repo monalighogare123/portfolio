@@ -5,4 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  BASE: process.env.VIET_BASE_PATH || "/Monali_Portfolio"
 })

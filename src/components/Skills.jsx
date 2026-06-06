@@ -20,7 +20,7 @@ const Skills = () => {
       title: "Backend Development",
       description:
         "A JavaScript runtime built on Chrome's V8 engine for server-side development.",
-      tags: ["JavaScript", "node.js", "Server"],
+      tags: ["JavaScript", "node.js", "Server", "FastAPI"],
     },
     {
       icon: FaPython,
@@ -48,7 +48,7 @@ const Skills = () => {
       icon: FaTools,
       description:
         "Essential tools and technologies I use in my development workflow.",
-      tags: ["Git", "Github"],
+      tags: ["Git", "Github","Jupyter Notebook", "PowerBI"],
     },
   ];
 
